@@ -1,8 +1,6 @@
-From time tracking systems, CRMs, server implementations, automated email sending, internal apps, to movie catalogs — I've developed dashboards 🧮, mobile projects, and web apps that have improved data management, user experience, and overall work efficiency 📱.
+Time tracking systems, CRMs, server implementations, automated email sending, internal apps, to movie catalogs — I've developed dashboards 🧮, mobile projects, and web apps that have improved data management, user experience, and overall work efficiency 📱.
+Flutter, JavaScript, TypeScript, HTML, CSS, React.js, Node.js, REST APIs, Linux, and SQL/NoSQL databases 👨🏻‍💻. 🇬🇧🇲🇽
 
-I have experience with Flutter, JavaScript, TypeScript, HTML, CSS, React.js, Node.js, REST APIs, Linux, and SQL/NoSQL databases 👨🏻‍💻. I'm able to speak various languagues which allows me to communicate effectively with international teams. 🇬🇧🇲🇽
-
-I'm passionate about transforming complex challenges into intuitive, modern, and functional digital experiences using the latest technologies. I'm open to connecting and exploring collaboration opportunities to help bring projects to life. 👋🏻
 
 
 
