@@ -1,4 +1,4 @@
-Time tracking systems, CRMs, server implementations, automated email sending, internal apps, to movie catalogs — I've developed dashboards 🧮, mobile projects, and web apps that have improved data management, user experience, and overall work efficiency 📱.
+Time tracking systems, CRMs, server implementations, automated email sending, internal apps, to movie catalogs, dashboards 🧮, mobile projects, and web apps that have improved data management, user experience, and overall work efficiency 📱.
 Flutter, JavaScript, TypeScript, HTML, CSS, React.js, Node.js, REST APIs, Linux, and SQL/NoSQL databases 👨🏻‍💻. 🇬🇧🇲🇽
 
 
